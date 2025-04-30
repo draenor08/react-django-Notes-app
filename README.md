@@ -11,15 +11,15 @@ It allows users to create, update, and delete notes, providing a seamless full-s
 - User authentication (optional based on your implementation)
 - CRUD operations for notes (Create, Read, Update, Delete)
 - Responsive design for a better user experience across devices
-- Built using **Django** for the backend and **React** for the frontend
+- Built using Django for the backend and React for the frontend
 
 # Tech Stack
 
-- *Frontend*: React.js
-- *Backend*: Django
-- *Database*: SQLite
-- *State Management*: React hooks
-- *Styling*: CSS
+- Frontend: React.js
+- Backend: Django
+- Database: SQLite
+- State Management: React hooks
+- Styling: CSS
   
 #  Installation
 
