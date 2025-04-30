@@ -3,7 +3,8 @@
 ```markdown
 # Notes App
 
-A simple notes application built using Django and React. It allows users to create, update, and delete notes, providing a seamless full-stack experience.
+A simple notes application built using Django and React.
+It allows users to create, update, and delete notes, providing a seamless full-stack experience.
 
 # Features
 
