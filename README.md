@@ -15,11 +15,11 @@ It allows users to create, update, and delete notes, providing a seamless full-s
 
 # Tech Stack
 
-- **Frontend**: React.js
-- **Backend**: Django
-- **Database**: SQLite
-- **State Management**: React hooks
-- **Styling**: CSS
+- *Frontend*: React.js
+- *Backend*: Django
+- *Database*: SQLite
+- *State Management*: React hooks
+- *Styling*: CSS
   
 #  Installation
 
